@@ -28,4 +28,4 @@ Ele aplica temas, ícones, wallpapers, painéis, widgets, atalhos e muito mais, 
 ### 1. One-liner para instalar e executar
 
 ```bash
-bash -c "$(wget -qO- https://raw.githubusercontent.com/SEU_USUARIO/biglinux-xfce-style/main/biglinux-xfce-ultimate-pro2.sh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/marciomiqueloto/biglinux-xfce-style/main/biglinux-xfce-ultimate-pro2.sh)"
